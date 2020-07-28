@@ -1,6 +1,6 @@
 package com.test.test.common.entity;
 
-import com.telecom.integral.common.entity.system.Menu;
+import com.test.test.common.entity.system.Menu;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

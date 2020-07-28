@@ -1,8 +1,7 @@
-package com.test.test.common.service;
+package com.test.test.task.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,9 +12,9 @@ import java.util.concurrent.TimeUnit;
 /**
  * 定义常用的 Redis操作
  *
- * @author wangjiahao
+ * @author MrBird
  */
-@Component
+@SuppressWarnings("all")
 public class RedisService {
 
     @Autowired
@@ -559,4 +558,15 @@ public class RedisService {
             return 0L;
         }
     }
+
+    /**
+     * 查询前缀为xx所有key值
+     *
+     * @return
+     */
+    public Set<String> getKeys(String key) {
+        Set<String> keys = redisTemplate.keys(key);
+        return keys;
+    }
+
 }

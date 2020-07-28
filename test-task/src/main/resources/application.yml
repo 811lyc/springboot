@@ -1,0 +1,30 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8
+    data-username: root
+    data-password: 123456
+
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password:
+    database: 0 # Redis
+    lettuce:
+      pool:
+        min-idle: 8
+        max-idle: 10
+        max-active: 8
+        max-wait: -1ms
+    timeout: 10000ms
+
+mybatis-plus:
+  type-aliases-package: com.test.test-task
+  mapper-locations: classpath:mapper/*/*.xml
+  configuration:
+    jdbc-type-for-null: null
+  global-config:
+    banner: false

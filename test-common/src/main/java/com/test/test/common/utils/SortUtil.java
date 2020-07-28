@@ -3,8 +3,8 @@ package com.test.test.common.utils;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.OrderItem;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.telecom.integral.common.entity.QueryRequest;
-import com.telecom.integral.common.entity.constant.IntegralConstant;
+import com.test.test.common.entity.QueryRequest;
+import com.test.test.common.entity.constant.IntegralConstant;
 import org.apache.commons.lang3.StringUtils;
 
 /**

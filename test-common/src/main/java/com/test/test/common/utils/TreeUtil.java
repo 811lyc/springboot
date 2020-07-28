@@ -1,7 +1,7 @@
 package com.test.test.common.utils;
 
-import com.telecom.integral.common.entity.Tree;
-import com.telecom.integral.common.entity.router.VueRouter;
+import com.test.test.common.entity.Tree;
+import com.test.test.common.entity.router.VueRouter;
 
 import java.util.ArrayList;
 import java.util.List;
