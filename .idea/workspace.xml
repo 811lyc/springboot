@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e19df3-3080-43cb-91ff-def1334b7db2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\idea\cang_ku" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\idea\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJ3MUL3LYnNCa5pLxfgiBB0l8u" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-task/src/main/java/com/test/test/task" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea\project\test-parent\test-task\src\main\java\com\test\test\task" />
+      <recent name="F:\idea\project\test-parent\test-common\src\main\java\com\test\test\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ParentApplication">
+    <configuration name="ParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.parent.ParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.test.common.TestCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.test.server.TestServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-server (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.testserver.TestServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.test.task.TestTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e19df3-3080-43cb-91ff-def1334b7db2" name="Default Changelist" comment="" />
+      <created>1595922319235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595922319235</updated>
+      <workItem from="1595922322196" duration="3663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
