@@ -19,7 +19,7 @@
         <easy-captcha.version>1.6.2</easy-captcha.version>
         <xml-apis.version>1.4.01</xml-apis.version>
         <ip2region.version>1.7</ip2region.version>
-        <guava.version>29.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <excelKit.version>2.0.71</excelKit.version>
         <mybatis-plus.version>3.3.1</mybatis-plus.version>
         <spring-boot-admin.version>2.2.3</spring-boot-admin.version>
